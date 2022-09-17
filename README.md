@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import rtrim from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-right-trim@esm/index.mjs';
+import rtrim from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-right-trim@v0.0.2-esm/index.mjs';
 ```
 
 #### rtrim( str )
@@ -85,7 +85,7 @@ var out = rtrim( ' \t\t\n  Beep \r\n\t  ' );
 <body>
 <script type="module">
 
-import rtrim from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-right-trim@esm/index.mjs';
+import rtrim from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-right-trim@v0.0.2-esm/index.mjs';
 
 var out = rtrim( '   Whitespace   ' );
 // returns '   Whitespace'
