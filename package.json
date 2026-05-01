@@ -70,6 +70,7 @@
     "utility",
     "utils",
     "util",
+    "base",
     "string",
     "str",
     "whitespace",
