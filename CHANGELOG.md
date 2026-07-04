@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`a8be8d1`](https://github.com/stdlib-js/stdlib/commit/a8be8d1588388d3f20084bf4431dff14f4c7c7ed) - **docs:** update descriptions [(#13257)](https://github.com/stdlib-js/stdlib/pull/13257) _(by Philipp Burckhardt)_
 -   [`fe7c274`](https://github.com/stdlib-js/stdlib/commit/fe7c2746799f98c42a15f5ab2240676bb9b5987d) - **docs:** fix errors and inconsistencies in `@stdlib/string` TypeScript declarations [(#12390)](https:-/github.com/stdlib-js/stdlib/pull/12390) _(by Philipp Burckhardt, Athan Reines)_
 -   [`43d1d20`](https://github.com/stdlib-js/stdlib/commit/43d1d20ba3ad56a2d8dc0f9a7dafb279240a976e) - **docs:** align keywords in `string/base` with namespace majority patterns [(#11841)](https://github.com/stdlib-js/stdlib/pull/11841) _(by Philipp Burckhardt)_
 -   [`aa8d436`](https://github.com/stdlib-js/stdlib/commit/aa8d436e7f5bcab413e101bc9954e9e15d162d5d) - **bench:** refactor to use string interpolation in `@stdlib/string` [(#11456)](https:-/github.com/stdlib-js/stdlib/pull/11456) _(by Uday Kakade, Karan Anand)_
